@@ -2,7 +2,7 @@
 
 Application web installable (PWA) pour gérer le stock du frigo, du congélateur et du placard, et la liste de courses d'un foyer.
 
-**Ouvrir l'appli :** https://theoellezam-cmyk.github.io/garde-manger/
+**Ouvrir l'appli :** https://theoellezam-cmyk.github.io/Garde-manger/
 
 ## Fonctions
 
